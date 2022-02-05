@@ -1,0 +1,10 @@
+False random integer is 5
+False random integer is 67
+True sum: 1 8 63
+False random integer is 17
+True sum: 1 1 42
+True sum: 1 8 63
+False random integer is 27
+True sum: 6 1 70
+True sum: 3 6 116
+True sum: 5 9 161
