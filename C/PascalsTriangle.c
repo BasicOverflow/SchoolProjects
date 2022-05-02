@@ -58,7 +58,7 @@ void free_memory( int** triangle, int rows ) {
 }
 
 
-// DO NOT MODIFY CODE BELOW
+// SKELETON CODE BELOW
 
 /*
  * compute polynomial hash code with base 257 for a given array of unsigned chars
